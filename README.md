@@ -1,6 +1,6 @@
-## Hi there 👋
+### About
 
-< Whether you're part of a team sport or compete individually, refining your technique is essential to improving performance, and that's where technology shines. For Emebet, the real power of technology in sport lies in its ability to unlock human potential. It’s thrilling to see how athletes can push past limits. As Eliud Kipchoge said, “No human is limited,” and with the right innovation and insights, those limits keep shifting. Technology isn’t just enhancing performance; it’s helping redefine what humans are capable of. >
+Whether you're part of a team sport or compete individually, refining your technique is essential to improving performance, and that's where technology shines. For Emebet, the real power of technology in sport lies in its ability to unlock human potential. It’s thrilling to see how athletes can push past limits. As Eliud Kipchoge said, “No human is limited,” and with the right innovation and insights, those limits keep shifting. Technology isn’t just enhancing performance; it’s helping redefine what humans are capable of. 
 
 ---
 
