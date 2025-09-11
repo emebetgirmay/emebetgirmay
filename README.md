@@ -1,4 +1,4 @@
-## Hi there 👋
+I am setting up my github profile      ## Hi there 👋
 
 <!--
 **emebetgirmay/emebetgirmay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=emebetgirmay&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+  help me formatting it beautifully
