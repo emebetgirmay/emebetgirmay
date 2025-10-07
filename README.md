@@ -58,8 +58,5 @@ Whether you're part of a team sport or compete individually, refining your techn
 
 
 
----
-
-[![Visitor Count](https://visitcount.itsvg.in/api?id=emebetgirmay&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
